@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Lavka</string>
+    <string name="app_name">Сундук</string>
     <string name="title_new_orders">Новые заказы</string>
     <string name="error_loading">Не удалось загрузить заказы</string>
     <string name="retry">Обновить</string>
