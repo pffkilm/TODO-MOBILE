@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Lavka palette (from screenshots) -->
-    <color name="primary">#B96BD0</color>
+    <color name="primary">#61C0D7</color>
     <color name="primary_dark">#FFC600</color>
     <color name="on_primary">#000000</color>
     <color name="secondary">#FA9214</color>
